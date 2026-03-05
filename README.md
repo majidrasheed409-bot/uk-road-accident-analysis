@@ -29,4 +29,4 @@ Python, Pandas, NumPy, Matplotlib, Seaborn
 
 ## Files
 Part_A_Analysis.ipynb  
-Project Report.pdf
+
